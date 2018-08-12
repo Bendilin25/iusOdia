@@ -1,0 +1,1037 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-08-12T23:10:06.309+02:00
+  initializedAtString: 2018-08-12T23:03:49.364+02:00
+  entries:
+  - path: .collabignore
+    fullPath: D:\Unity\Projects\iusOdia\.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\Ius Odia\v15\.suo
+    fullPath: D:\Unity\Projects\iusOdia\.vs\Ius Odia\v15\.suo
+    projectPath: .vs\Ius Odia\v15\.suo
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\NewBehaviourScript.cs
+    fullPath: D:\Unity\Projects\iusOdia\Assets\NewBehaviourScript.cs
+    projectPath: Assets\NewBehaviourScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\NewBehaviourScript.cs.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\NewBehaviourScript.cs.meta
+    projectPath: Assets\NewBehaviourScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\Unity\Projects\iusOdia\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: D:\Unity\Projects\iusOdia\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\Collab\CollabSnapshot_6aa7f16c-1514-412c-a7e6-7ccf5289db88.txt
+    fullPath: D:\Unity\Projects\iusOdia\Library\Collab\CollabSnapshot_6aa7f16c-1514-412c-a7e6-7ccf5289db88.txt
+    projectPath: Library\Collab\CollabSnapshot_6aa7f16c-1514-412c-a7e6-7ccf5289db88.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: D:\Unity\Projects\iusOdia\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: D:\Unity\Projects\iusOdia\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\expandedItems
+    fullPath: D:\Unity\Projects\iusOdia\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Unity\Projects\iusOdia\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Unity\Projects\iusOdia\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Unity\Projects\iusOdia\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Unity\Projects\iusOdia\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Unity\Projects\iusOdia\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: D:\Unity\Projects\iusOdia\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Unity\Projects\iusOdia\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: D:\Unity\Projects\iusOdia\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\00\00000000000000004000000000000000
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\92\92aa55c5cbf6dd54097e8a0585138884
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\92\92aa55c5cbf6dd54097e8a0585138884
+    projectPath: Library\metadata\92\92aa55c5cbf6dd54097e8a0585138884
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\92\92aa55c5cbf6dd54097e8a0585138884.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\92\92aa55c5cbf6dd54097e8a0585138884.info
+    projectPath: Library\metadata\92\92aa55c5cbf6dd54097e8a0585138884.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\95\958d1f0f7069f6d4c99f620611b8c8b8
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\95\958d1f0f7069f6d4c99f620611b8c8b8
+    projectPath: Library\metadata\95\958d1f0f7069f6d4c99f620611b8c8b8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\95\958d1f0f7069f6d4c99f620611b8c8b8.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\95\958d1f0f7069f6d4c99f620611b8c8b8.info
+    projectPath: Library\metadata\95\958d1f0f7069f6d4c99f620611b8c8b8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ff\ffc433f62c9b3294c944f542adacc2ef
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\ff\ffc433f62c9b3294c944f542adacc2ef
+    projectPath: Library\metadata\ff\ffc433f62c9b3294c944f542adacc2ef
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ff\ffc433f62c9b3294c944f542adacc2ef.info
+    fullPath: D:\Unity\Projects\iusOdia\Library\metadata\ff\ffc433f62c9b3294c944f542adacc2ef.info
+    projectPath: Library\metadata\ff\ffc433f62c9b3294c944f542adacc2ef.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ProjectSettings.asset
+    fullPath: D:\Unity\Projects\iusOdia\Library\ProjectSettings.asset
+    projectPath: Library\ProjectSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\Unity\Projects\iusOdia\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\16e1a9be7574e6178ded21a3018014e1.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\1\16e1a9be7574e6178ded21a3018014e1.bin
+    projectPath: Library\ShaderCache\1\16e1a9be7574e6178ded21a3018014e1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\2\265a6899e4a50fda3a83a21e6d661c71.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\2\265a6899e4a50fda3a83a21e6d661c71.bin
+    projectPath: Library\ShaderCache\2\265a6899e4a50fda3a83a21e6d661c71.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\3ca56305943eb1dcb20ed07c09028add.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\3\3ca56305943eb1dcb20ed07c09028add.bin
+    projectPath: Library\ShaderCache\3\3ca56305943eb1dcb20ed07c09028add.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\4a265dc507f939338cc96ec482101194.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\4\4a265dc507f939338cc96ec482101194.bin
+    projectPath: Library\ShaderCache\4\4a265dc507f939338cc96ec482101194.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\5\57a64fde09732c341809ff995d085d4c.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\5\57a64fde09732c341809ff995d085d4c.bin
+    projectPath: Library\ShaderCache\5\57a64fde09732c341809ff995d085d4c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\66be9770ef99232aa326ac74fcafd062.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\6\66be9770ef99232aa326ac74fcafd062.bin
+    projectPath: Library\ShaderCache\6\66be9770ef99232aa326ac74fcafd062.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\7c6d3b8016208ef936dbc86e5647cb8c.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\7\7c6d3b8016208ef936dbc86e5647cb8c.bin
+    projectPath: Library\ShaderCache\7\7c6d3b8016208ef936dbc86e5647cb8c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\80364dca7e5fc7c21117a0db3609dd3b.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\8\80364dca7e5fc7c21117a0db3609dd3b.bin
+    projectPath: Library\ShaderCache\8\80364dca7e5fc7c21117a0db3609dd3b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8cf31657b17329419f8dfb0d50ab8894.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\8\8cf31657b17329419f8dfb0d50ab8894.bin
+    projectPath: Library\ShaderCache\8\8cf31657b17329419f8dfb0d50ab8894.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\9ac966e5652295d5503fd9c9f422ce26.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\9\9ac966e5652295d5503fd9c9f422ce26.bin
+    projectPath: Library\ShaderCache\9\9ac966e5652295d5503fd9c9f422ce26.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\9df0726aa925b55bbb4b59ebaefd58cc.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\9\9df0726aa925b55bbb4b59ebaefd58cc.bin
+    projectPath: Library\ShaderCache\9\9df0726aa925b55bbb4b59ebaefd58cc.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\abee89ec33c9f70d7c777b3dcb45a0e2.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\a\abee89ec33c9f70d7c777b3dcb45a0e2.bin
+    projectPath: Library\ShaderCache\a\abee89ec33c9f70d7c777b3dcb45a0e2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c062aca652172d390610877c1456e4e0.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\c\c062aca652172d390610877c1456e4e0.bin
+    projectPath: Library\ShaderCache\c\c062aca652172d390610877c1456e4e0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c29a6c2ac49b0a0d07f539515dcb0a80.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\c\c29a6c2ac49b0a0d07f539515dcb0a80.bin
+    projectPath: Library\ShaderCache\c\c29a6c2ac49b0a0d07f539515dcb0a80.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c92366995013e72cc1fd3292035b73f8.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\c\c92366995013e72cc1fd3292035b73f8.bin
+    projectPath: Library\ShaderCache\c\c92366995013e72cc1fd3292035b73f8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d7cd96a34bc1b98d4dfe9e6e3f74241d.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\d\d7cd96a34bc1b98d4dfe9e6e3f74241d.bin
+    projectPath: Library\ShaderCache\d\d7cd96a34bc1b98d4dfe9e6e3f74241d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\dad7d11dc6dc635934c0c59349a7863b.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\d\dad7d11dc6dc635934c0c59349a7863b.bin
+    projectPath: Library\ShaderCache\d\dad7d11dc6dc635934c0c59349a7863b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\ea819251e900f0f25051847b4c97c2c9.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\e\ea819251e900f0f25051847b4c97c2c9.bin
+    projectPath: Library\ShaderCache\e\ea819251e900f0f25051847b4c97c2c9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f82fc545de13c22b2a776c247b313efd.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\f\f82fc545de13c22b2a776c247b313efd.bin
+    projectPath: Library\ShaderCache\f\f82fc545de13c22b2a776c247b313efd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\feb514932a7380737e6a8561cf2166d9.bin
+    fullPath: D:\Unity\Projects\iusOdia\Library\ShaderCache\f\feb514932a7380737e6a8561cf2166d9.bin
+    projectPath: Library\ShaderCache\f\feb514932a7380737e6a8561cf2166d9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Unity\Projects\iusOdia\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\UnityAssemblies\nunit.framework.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\nunit.framework.dll
+    projectPath: Library\UnityAssemblies\nunit.framework.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\nunit.framework.xml
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\nunit.framework.xml
+    projectPath: Library\UnityAssemblies\nunit.framework.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEditor.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEditor.dll
+    projectPath: Library\UnityAssemblies\UnityEditor.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEditor.xml
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEditor.xml
+    projectPath: Library\UnityAssemblies\UnityEditor.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.Analytics.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.Analytics.dll
+    projectPath: Library\UnityAssemblies\UnityEngine.Analytics.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.Analytics.xml
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.Analytics.xml
+    projectPath: Library\UnityAssemblies\UnityEngine.Analytics.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.dll
+    projectPath: Library\UnityAssemblies\UnityEngine.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.HoloLens.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.HoloLens.dll
+    projectPath: Library\UnityAssemblies\UnityEngine.HoloLens.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.HoloLens.xml
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.HoloLens.xml
+    projectPath: Library\UnityAssemblies\UnityEngine.HoloLens.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.Networking.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.Networking.dll
+    projectPath: Library\UnityAssemblies\UnityEngine.Networking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.Networking.xml
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.Networking.xml
+    projectPath: Library\UnityAssemblies\UnityEngine.Networking.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\UnityAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.TestRunner.xml
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.TestRunner.xml
+    projectPath: Library\UnityAssemblies\UnityEngine.TestRunner.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.Timeline.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.Timeline.dll
+    projectPath: Library\UnityAssemblies\UnityEngine.Timeline.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.Timeline.xml
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.Timeline.xml
+    projectPath: Library\UnityAssemblies\UnityEngine.Timeline.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.UI.dll
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.UI.dll
+    projectPath: Library\UnityAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.UI.xml
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.UI.xml
+    projectPath: Library\UnityAssemblies\UnityEngine.UI.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\UnityEngine.xml
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\UnityEngine.xml
+    projectPath: Library\UnityAssemblies\UnityEngine.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\UnityAssemblies\version.txt
+    fullPath: D:\Unity\Projects\iusOdia\Library\UnityAssemblies\version.txt
+    projectPath: Library\UnityAssemblies\version.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: D:\Unity\Projects\iusOdia\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: D:\Unity\Projects\iusOdia\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: D:\Unity\Projects\iusOdia\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\UnityTempFile-b555b7a3048a6bf4ea2ba5fa01995879
+    fullPath: D:\Unity\Projects\iusOdia\Temp\UnityTempFile-b555b7a3048a6bf4ea2ba5fa01995879
+    projectPath: Temp\UnityTempFile-b555b7a3048a6bf4ea2ba5fa01995879
+    originalPath: 
+    status: 5
+    staged: 0
